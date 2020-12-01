@@ -8,5 +8,6 @@ public class SimpleClasse {
 		int a = 3;
 		int b = 5;
 		System.out.println("Somme " + a + " + " + b + " = " + sc.somme(a,b));
+		System.out.println("POUET");
 	}
 }
